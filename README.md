@@ -2,7 +2,7 @@
 
 This is a very simple, commented example, to introduce the concepts of Dagger2 for beginners. 
 
-All we attempt to do is use shared prefs to assign an integer and read it from the Logcat, and change the colour of a Textview.
+All we will attempt to do is use shared prefs to assign an integer and read it from the Logcat and change the colour of a Textview.
 
 Dagger2 is a fast dependency injector framework for Android and Java. It can simplify the code you write and provide an adaptive environment that's useful for testing and other configuration changes.
 
